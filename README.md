@@ -59,7 +59,7 @@ flow-token-project/
 1. Clone this repository:
 ```
 
-git clone [https://github.com/yourusername/flow-token-project.git](https://github.com/yourusername/flow-token-project.git)
+git clone [https://github.com/walcruise/flow-example](https://github.com/yourusername/flow-token-project.git)
 cd flow-token-project
 
 ```plaintext
