@@ -1,0 +1,13 @@
+{
+    "network": "testnet",
+    "accounts": {
+      "admin-account": {
+        "address": "0xYourAccountAddress",
+        "keyId": 0
+      }
+    },
+    "contracts": {
+      "MyToken": "./contracts/MyToken.cdc"
+    }
+  }
+  
